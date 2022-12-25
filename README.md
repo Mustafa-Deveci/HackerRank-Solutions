@@ -15,3 +15,7 @@ https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-differen
 https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem
 
 https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/problem
+
+https://www.hackerrank.com/challenges/find-the-median/problem
+
+https://www.hackerrank.com/challenges/flipping-the-matrix/problem

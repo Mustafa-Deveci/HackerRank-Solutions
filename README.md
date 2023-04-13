@@ -14,7 +14,7 @@
 | Day2 | Lonely Integer  | Content Cell  | [Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two)  |
 | Day2 | Diagonal Difference  | Content Cell  | [Diagonal Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two) |
 | Day2 | Counting Sort 1 | Content Cell  | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two)  |
-| Day2 Mock Test | Content Cell  | Content Cell  | [PlusMinus](https://www.hackerrank.com/challenges/one-week-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-one) |
+| Day2 Mock Test | Flipping the Matrix | Content Cell  | [PlusMinus](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) |
 | Day2 | Content Cell  | Content Cell  | Content Cell  |
 | Day2 | Content Cell  | Content Cell  | Content Cell  |
 

@@ -16,6 +16,7 @@
 | Day2 | Counting Sort 1 | Content Cell  | [Counting Sort 1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two)  |
 | Day2 Mock Test | Flipping the Matrix | Content Cell  | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix/problem) |
 | Day3 | Zig Zag Sequence | Content Cell  | [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-week-preparation-kit-zig-zag-sequence/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-three) |
-| Day3 | Content Cell  | Content Cell  | Content Cell  |
+| Day3 | Tower Breakers | Content Cell  | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-three) |
+| Day3 | Caesar Cipher | Content Cell  | [Caesar Cipher](https://www.hackerrank.com/challenges/one-week-preparation-kit-caesar-cipher-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-three) |
 
 </div>
